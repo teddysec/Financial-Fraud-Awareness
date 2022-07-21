@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<g transform="matrix(1 0 0 1 719.0697 586.6245)" id="70320">
+<g style="">
+		<g transform="matrix(1.1099 0 0 1.1099 418.5974 189.3057)" id="658649">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-964.2618, -694.177)" d="M 939.41646 740.09789 l -0.82555 -0.869 c 39.76932 -37.7685 50.06448 -90.44509 50.16385 -90.97274 l 1.17793 0.2216 C 989.83286 649.009 979.47454 702.05508 939.41646 740.09789 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1.1099 0 0 1.1099 -234.5799 -15.0055)" id="48673">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(63,61,86); fill-rule: nonzero; opacity: 1;" transform=" translate(-381.9272, -360.9623)" d="M 383.03037 563.91909 a 75.18955 75.18955 0 0 1 -18.63955 -2.41115 l -1.19992 -0.332 l -1.11309 -0.55768 c -40.242 -20.17656 -74.192 -46.827 -100.90712 -79.21137 a 299.86458 299.86458 0 0 1 -50.94916 -90.47014 a 348.20978 348.20978 0 0 1 -19.69086 -122.66453 c 0.017 -0.87611 0.03139 -1.55256 0.03139 -2.01861 c 0 -20.28912 11.262 -38.0913 28.69121 -45.35357 c 13.33947 -5.55813 134.45539 -55.30526 143.20632 -58.89963 c 16.48038 -8.25772 34.062 -1.36535 36.87554 -0.16006 c 6.31094 2.58025 118.2752 48.375 142.47062 59.89621 c 24.93578 11.87415 31.5889 33.20566 31.5889 43.93787 c 0 48.58822 -8.415 93.99778 -25.01129 134.9674 a 312.51684 312.51684 0 0 1 -56.16213 90.51087 c -45.84677 51.59381 -91.7057 69.8841 -92.14828 70.0453 A 50.11 50.11 0 0 1 383.03037 563.91909 Z m -10.78453 -26.71374 c 3.97586 0.89138 13.12949 2.22845 19.0957 0.052 c 7.57929 -2.76408 45.96243 -22.668 81.83036 -63.03189 c 49.55709 -55.769 74.70242 -125.87542 74.73919 -208.37177 c -0.08852 -1.67134 -1.27542 -13.59188 -17.06153 -21.10867 C 507.12331 233.44669 390.746 185.86014 389.5732 185.38052 l -0.32154 -0.13631 c -2.43886 -1.022 -10.20055 -3.1747 -15.55082 -0.371 l -1.07124 0.49943 c -1.2972 0.53279 -129.86317 53.33754 -143.57481 59.05064 c -9.59168 3.99651 -13.00917 13.89729 -13.00917 21.83037 c 0 0.57973 -0.015 1.423 -0.03619 2.51294 C 214.91358 325.21375 227.97577 464.11262 372.24584 537.20535 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1.1099 0 0 1.1099 -234.5798 -10.2079)" id="276608">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(88,84,126); fill-rule: nonzero; opacity: 1;" transform=" translate(-381.9192, -360.9672)" d="M 367.78865 173.58611 S 238.05415 226.86992 224.154 232.66164 s -20.85019 19.69184 -20.85019 33.592 S 192.87875 461.53177 367.78865 549.22768 c 0 0 15.87478 4.39241 27.91882 0 s 164.9454 -78.52642 164.9454 -283.55325 c 0 0 0 -20.85018 -24.32522 -32.43362 s -141.93358 -59.6547 -141.93358 -59.6547 S 379.95125 167.21522 367.78865 173.58611 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1.1099 0 0 1.1099 -302.7406 -20.6189)" id="71876">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 0.1;" transform=" translate(-316.8177, -357.4116)" d="M 381.68877 215.28648 V 499.53673 S 250.79593 436.53013 251.95428 270.887 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1.1099 0 0 1.1099 -198.5853 -27.5579)" id="159963">
+<polygon style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" points="-24.7985,58.7465 -66.4945,5.1345 -42.2465,-13.7245 -22.5035,11.6595 44.1915,-58.7465 66.4945,-37.6155 -24.7985,58.7465 "/>
+</g>
+</g>
+</g>
+</svg>
