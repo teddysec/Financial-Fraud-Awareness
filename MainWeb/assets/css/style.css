@@ -1970,20 +1970,20 @@ button:focus {
 ============================================================================================ */
 /* Home About Area css
 ============================================================================================ */
-.home_about_corona {
+.home_about_ebanking {
   padding-top: 50px;
 }
 
-.home_about_corona .home_ab_img {
+.home_about_ebanking .home_ab_img {
   padding-top: 50px;
 }
 
-.home_about_corona .home_ab_text {
+.home_about_ebanking .home_ab_text {
   margin-left: 70px;
   position: relative;
 }
 
-.home_about_corona .home_ab_text:before {
+.home_about_ebanking .home_ab_text:before {
   content: "";
   width: 500%;
   height: 100%;
@@ -1997,62 +1997,62 @@ button:focus {
   z-index: -1;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner {
+.home_about_ebanking .home_ab_text .home_ab_text_inner {
   margin-left: -70px;
   position: relative;
   padding-top: 45px;
   padding-bottom: 80px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item {
   margin-bottom: 27px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item h6 {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item h6 {
   color: #01cfbe;
   font: 500 18px "Quicksand", sans-serif;
   margin-bottom: 4px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item h4 {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item h4 {
   font: 700 30px "Quicksand", sans-serif;
   margin-bottom: 13px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item p {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item p {
   margin-bottom: 0px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item:last-child {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item:last-child {
   margin-bottom: 0px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item:last-child h4 {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item:last-child h4 {
   margin-bottom: 3px;
 }
 
-.home_about_corona .home_ab_text .home_ab_text_inner .home_ab_item:last-child p {
+.home_about_ebanking .home_ab_text .home_ab_text_inner .home_ab_item:last-child p {
   margin-bottom: 14px;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner {
   padding-top: 40px;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item h4 {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item h4 {
   font: 700 24px "Quicksand", sans-serif;
   margin-bottom: 8px;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item p {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item p {
   font-style: italic;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li {
   margin-bottom: 15px;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li a {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li a {
   padding-left: 25px;
   position: relative;
   display: block;
@@ -2060,7 +2060,7 @@ button:focus {
   color: #58547e;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li a i {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li a i {
   position: absolute;
   left: 0px;
   top: 6px;
@@ -2068,7 +2068,7 @@ button:focus {
   color: #01cfbe;
 }
 
-.home_about_corona .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li:last-child {
+.home_about_ebanking .home_ab_text.how_to_use .home_ab_text_inner .home_ab_item .nav li:last-child {
   margin-bottom: 0px;
 }
 
@@ -2153,21 +2153,21 @@ button:focus {
 
 /* End WorldWide Tracker Area css
 ============================================================================================ */
-/* Symptoms Area css
+/* Detection Area css
 ============================================================================================ */
-.symptoms_area {
-  background: url(../images/symptoms-user/symptoms-bg.jpg) no-repeat scroll center center;
+.redflag_area {
+  background: url(../images/detection-area/redflags-bg.jpg) no-repeat scroll center center;
   background-size: cover;
   padding-bottom: 60px;
   position: relative;
   z-index: 2;
 }
 
-.symptoms_area .container {
+.redflag_area .container {
   position: relative;
 }
 
-.symptoms_area .nav {
+.redflag_area .nav {
   position: absolute;
   width: 100%;
   left: 0px;
@@ -2176,14 +2176,14 @@ button:focus {
   z-index: -1;
 }
 
-.symptoms_area .nav li:first-child {
+.redflag_area .nav li:first-child {
   position: absolute;
   left: -150px;
   top: 49%;
   animation: rotate 3s linear 1s infinite;
 }
 
-.symptoms_area .nav li:nth-child(2) {
+.redflag_area .nav li:nth-child(2) {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -2192,47 +2192,47 @@ button:focus {
   margin-left: -102px;
 }
 
-.symptoms_area .nav li:last-child {
+.redflag_area .nav li:last-child {
   position: absolute;
   right: -135px;
   top: 50%;
   animation: covidmove 6s linear 0.3s infinite;
 }
 
-.symptoms_area .title_text {
+.redflag_area .title_text {
   margin-top: -75px;
   display: inline-block;
   max-width: 455px;
   margin-bottom: 10px;
 }
 
-.symptoms_area .title_text h5 {
+.redflag_area .title_text h5 {
   color: #01cfbe;
   font: 500 24px "Quicksand", sans-serif;
 }
 
-.symptoms_area .title_text h2 {
+.redflag_area .title_text h2 {
   font: 700 48px/60px "Quicksand", sans-serif;
   margin-bottom: 0px;
 }
 
-.symptoms_inner {
+.redflag_inner {
   margin-bottom: -30px;
 }
 
-.symptoms_inner .col-lg-6 {
+.redflag_inner .col-lg-6 {
   height: 100%;
 }
 
-.symptoms_inner .col-lg-6:first-child .symptoms_item {
+.redflag_inner .col-lg-6:first-child .redflag_item {
   margin-top: 50px;
 }
 
-.symptoms_inner .col-lg-6:last-child .symptoms_item {
+.redflag_inner .col-lg-6:last-child .redflag_item {
   margin-top: -50px;
 }
 
-.symptoms_item {
+.redflag_item {
   background: #fff;
   border-radius: 15px;
   box-shadow: 0px 10px 40px 0px rgba(51, 48, 78, 0.15);
@@ -2242,18 +2242,18 @@ button:focus {
   padding-top: 12px;
 }
 
-.symptoms_item .media .d-flex {
+.redflag_item .media .d-flex {
   max-width: 180px;
   width: 100%;
 }
 
-.symptoms_item .media .media-body h4 {
+.redflag_item .media .media-body h4 {
   font: 700 24px "Quicksand", sans-serif;
   margin-bottom: 13px;
   margin-top: 15px;
 }
 
-.symptoms_item .media .media-body p {
+.redflag_item .media .media-body p {
   margin-bottom: 0px;
   font: 400 14px/24px "Quicksand", sans-serif;
 }
@@ -4562,19 +4562,19 @@ button:focus {
   ============================================================================================ */
 /* Start symptoms_inner_two css
   ============================================================================================ */
-.symptoms_inner_two .col-lg-6:first-child .symptoms_item {
+.redflag_inner_two .col-lg-6:first-child .redflag_item {
   margin-top: 0;
 }
 
-.symptoms_inner_two .col-lg-6:last-child .symptoms_item {
+.redflag_inner_two .col-lg-6:last-child .redflag_item {
   margin-top: 0;
 }
 
-.symptoms_inner_two .col-lg-6:nth-child(2) .symptoms_item {
+.redflag_inner_two .col-lg-6:nth-child(2) .redflag_item {
   margin-top: 50px;
 }
 
-.symptoms_inner_two .col-lg-6:nth-child(3) .symptoms_item {
+.redflag_inner_two .col-lg-6:nth-child(3) .redflag_item {
   margin-top: -50px;
 }
 
