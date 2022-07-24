@@ -364,13 +364,13 @@
   .protect_inner .protect_img {
     margin-bottom: -20px;
   }
-  .washing_process_inner .washing_item::before {
+  .report_process_inner .report_item::before {
     display: none;
   }
-  .washing_process_inner .col-lg-2:nth-child(2n) {
+  .report_process_inner .col-lg-2:nth-child(2n) {
     margin-bottom: 50px;
   }
-  .washing_process_inner {
+  .report_process_inner {
     margin-bottom: -51px;
   }
   .prevent_item {
@@ -1120,24 +1120,24 @@
   .protect_self_text p {
     font: 500 14px/28px "Quicksand", sans-serif;
   }
-  .washing_process_inner .col-lg-2:nth-child(2n) {
+  .report_process_inner .col-lg-2:nth-child(2n) {
     margin-bottom: 30px;
     margin-top: 0px;
   }
-  .washing_process_inner .col-lg-2 {
+  .report_process_inner .col-lg-2 {
     margin-bottom: 30px;
   }
-  .washing_process_inner {
+  .report_process_inner {
     margin-bottom: 0px;
   }
-  .washing_process_area {
+  .report_process_area {
     padding-top: 50px;
     padding-bottom: 50px;
   }
-  .washing_process_area .main_title {
+  .report_process_area .main_title {
     margin-bottom: 50px;
   }
-  .washing_process_inner {
+  .report_process_inner {
     margin-bottom: -30px;
   }
   .prevent_area {
@@ -1631,11 +1631,11 @@
   .world_wide_tracker .tracker_text h2 {
     font: 700 20px/30px "Quicksand", sans-serif;
   }
-  .washing_process_inner .col-lg-2 {
+  .report_process_inner .col-lg-2 {
     flex: 0 0 100%;
     max-width: 100%;
   }
-  .washing_item {
+  .report_item {
     max-width: 250px;
     margin: auto;
   }
