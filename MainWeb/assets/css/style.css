@@ -2415,22 +2415,22 @@ button:focus {
 
 /* End Protect YourSelf Area css
 ============================================================================================ */
-/* Washing Process Area css
+/* Report Process Area css
 ============================================================================================ */
-.washing_process_area {
+.report_process_area {
   background: #57537d;
   padding-top: 75px;
 }
 
-.washing_process_area .main_title {
+.report_process_area .main_title {
   margin-bottom: 95px;
 }
 
-.washing_process_inner .col-lg-2:nth-child(even) {
+.report_process_inner .col-lg-2:nth-child(even) {
   margin-top: 130px;
 }
 
-.washing_process_inner .col-lg-2:nth-child(1) .washing_item:before {
+.report_process_inner .col-lg-2:nth-child(1) .report_item:before {
   content: "";
   background: url(../images/icon/arrow-1.png) no-repeat;
   height: 42px;
@@ -2441,7 +2441,7 @@ button:focus {
   transform: translateY(-50%);
 }
 
-.washing_process_inner .col-lg-2:nth-child(2) .washing_item:before {
+.report_process_inner .col-lg-2:nth-child(2) .report_item:before {
   content: "";
   background: url(../images/icon/arrow-2.png) no-repeat;
   height: 62px;
@@ -2451,7 +2451,7 @@ button:focus {
   top: -80px;
 }
 
-.washing_process_inner .col-lg-2:nth-child(3) .washing_item:before {
+.report_process_inner .col-lg-2:nth-child(3) .report_item:before {
   content: "";
   background: url(../images/icon/arrow-3.png) no-repeat;
   height: 44px;
@@ -2462,7 +2462,7 @@ button:focus {
   transform: translateY(-50%);
 }
 
-.washing_process_inner .col-lg-2:nth-child(4) .washing_item:before {
+.report_process_inner .col-lg-2:nth-child(4) .report_item:before {
   content: "";
   background: url(../images/icon/arrow-4.png) no-repeat;
   height: 53px;
@@ -2473,7 +2473,7 @@ button:focus {
   transform: translateY(-50%);
 }
 
-.washing_process_inner .col-lg-2:nth-child(5) .washing_item:before {
+.report_process_inner .col-lg-2:nth-child(5) .report_item:before {
   content: "";
   background: url(../images/icon/arrow-5.png) no-repeat;
   height: 53px;
@@ -2484,17 +2484,17 @@ button:focus {
   transform: translateY(-50%);
 }
 
-.washing_item {
+.report_item {
   text-align: center;
 }
 
-.washing_item .icon {
+.report_item .icon {
   position: relative;
   display: inline-block;
   margin-bottom: 20px;
 }
 
-.washing_item .icon .number {
+.report_item .icon .number {
   color: #fff;
   height: 40px;
   width: 40px;
@@ -2507,7 +2507,7 @@ button:focus {
   top: -5px;
 }
 
-.washing_item p {
+.report_item p {
   color: #c4c0e4;
   font: 400 16px/24px "Quicksand", sans-serif;
   margin-bottom: 0px;
@@ -2515,12 +2515,12 @@ button:focus {
   margin-right: -7px;
 }
 
-.washing_item p span {
+.report_item p span {
   color: #fff;
   font-weight: 700;
 }
 
-/* End Washing Process Area css
+/* End report Process Area css
 ============================================================================================ */
 /* End Prevent Area css
 ============================================================================================ */
