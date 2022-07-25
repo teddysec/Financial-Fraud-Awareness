@@ -1358,7 +1358,7 @@ button:focus {
 
 .prevention_banner .prevention_text h3 {
   font: 700 40px "Quicksand", sans-serif;
-  color: #fff;
+  color: #58547e;
 }
 
 .prevention_banner .prevention_text .nav {
@@ -1374,7 +1374,7 @@ button:focus {
 }
 
 .prevention_banner .prevention_text .nav li:last-child a {
-  color: #d0cced;
+  color: #58547e;
   font-weight: 400;
 }
 
@@ -1383,7 +1383,7 @@ button:focus {
 }
 
 .prevention_banner .prevention_text .nav li a {
-  color: #fff;
+  color: #58547e;
   font: 600 14px "Quicksand", sans-serif;
   position: relative;
 }
@@ -1396,7 +1396,7 @@ button:focus {
   top: 50%;
   transform: translateY(-50%);
   font-size: 12px;
-  color: #d0cced;
+  color: #58547e;
 }
 
 /* End Prevention Banner Area css
@@ -1487,20 +1487,20 @@ button:focus {
 }
 
 .breadcrumb_area.dark_breadcrumb .breadcrumb_text {
-  color: #fff;
+  color: #58547e;
   padding-bottom: 65px;
 }
 
 .breadcrumb_area.dark_breadcrumb .breadcrumb_text .nav li a {
-  color: #fff;
+  color: #58547e;
 }
 
 .breadcrumb_area.dark_breadcrumb .breadcrumb_text .nav li a:before {
-  color: #fff;
+  color: #58547e;
 }
 
 .breadcrumb_area.dark_breadcrumb .breadcrumb_text .nav li:last-child a {
-  color: #d0cced;
+  color: #58547e;
 }
 
 .overlay_bg {
