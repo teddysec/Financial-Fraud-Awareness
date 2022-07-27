@@ -61,28 +61,28 @@
   .about_corona_aera .home_ab_img img {
     max-width: 100%;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li img {
+  .about_ebanking_promo_area .bg_img .shap_img_two li img {
     max-width: 100%;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(1) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(1) {
     bottom: 20px;
     width: 80px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(2) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(2) {
     width: 50px;
     bottom: 150px;
     left: 20px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(3) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(3) {
     width: 30px;
     left: 130px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(4) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(4) {
     left: 100px;
     bottom: 270px;
     width: 20px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(5) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(5) {
     width: 25px;
     left: 0px;
     bottom: 280px;
@@ -322,41 +322,11 @@
   .footer_widgets_area .row {
     margin-bottom: -30px;
   }
-  .about_faq_area .col-lg-6 img {
-    margin-bottom: 30px;
-    width: auto;
-    max-width: 100%;
-  }
-  .about_faq_area .faq_img {
-    text-align: center;
-  }
-  .about_faq_area .question_list {
-    max-width: 570px;
-    margin: auto;
-  }
   .about_features_area .col-md-6 {
     margin-bottom: 30px;
   }
   .about_features_area .row {
     margin-bottom: -30px;
-  }
-  .appointment_box .appoinment_features {
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-  }
-  .work_area .text-center {
-    margin-top: 30px;
-  }
-  .blog_area .big_l_blog_item {
-    max-width: 570px;
-    margin: 0px auto 30px;
-  }
-  .small_l_blog_item .l_blog_text .date {
-    margin-bottom: 25px;
-  }
-  .doctors_bio .doctors_img {
-    padding-right: 0px;
-    text-align: center !important;
   }
   .breadcrumb_area .doctors_bio {
     margin-bottom: 0px;
@@ -365,32 +335,29 @@
     text-align: center !important;
     margin-top: 40px;
   }
-  .doctors_bio .doctors_bio_text p {
-    margin: auto;
-  }
   .client_logo_area .check_now_area.check_now_box {
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 50px;
   }
-  .about_cronacvirus_promo_area .bg_img {
+  .about_ebanking_promo_area .bg_img {
     position: relative;
     width: 100%;
     right: -25px;
   }
-  .about_cronacvirus_promo_area .shap_img li:nth-child(1) {
+  .about_ebanking_promo_area .shap_img li:nth-child(1) {
     display: none;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(3),
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(4),
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(5) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(3),
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(4),
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(5) {
     width: auto;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(4) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(4) {
     bottom: 370px;
     left: 200px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(3) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(3) {
     left: 320px;
   }
   .coming_soon_area {
@@ -1189,7 +1156,7 @@
   .check_now_area .left .media .media-body p {
     font: 500 16px/28px "Quicksand", sans-serif;
   }
-  .about_cronacvirus_promo_area {
+  .about_ebanking_promo_area {
     padding: 50px 0px 20px;
   }
   .appoinment_form {
@@ -1465,25 +1432,25 @@
   .blog_menu .nav li a {
     font: 500 14px "Quicksand", sans-serif;
   }
-  .about_cronacvirus_promo_area .bg_img {
+  .about_ebanking_promo_area .bg_img {
     right: 0;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(1) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(1) {
     left: -20px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(2) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(2) {
     bottom: 135px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(4) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(4) {
     left: 100px;
     bottom: 65px;
     width: 30px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(3) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(3) {
     width: 20px;
     left: 100px;
   }
-  .about_cronacvirus_promo_area .bg_img .shap_img_two li:nth-child(5) {
+  .about_ebanking_promo_area .bg_img .shap_img_two li:nth-child(5) {
     width: 25px;
     left: -10px;
     bottom: 220px;
